@@ -11,8 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 ![Tarandeep's github stats](https://github-readme-stats.vercel.app/api?username=Tarandeep97&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarandeep97&layout=compact)](https://github.com/Tarandeep97)
-
--->
