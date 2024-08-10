@@ -18,11 +18,4 @@
 - 💼 [Professional Portfolio](https://tarandeep97.github.io)
 - 📫 How to reach me: [Email](mailto:tarandeeps1197@gmail.comm)
 
-### Achievements
-
-- 🌟 Arctic Code Vault Contributor
-- 🎯 Quickdraw Achiever
-
-![Tarandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarandeep97&show_icons=true&theme=radical)
-
 Feel free to check out my repositories and don't hesitate to connect if you find anything interesting!
