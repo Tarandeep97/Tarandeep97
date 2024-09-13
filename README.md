@@ -16,6 +16,6 @@
 ### Connect with Me
 
 - 💼 [Professional Portfolio](https://tarandeep97.github.io)
-- 📫 How to reach me: [Email](mailto:tarandeeps1197@gmail.comm)
+- 📫 How to reach me: [Email](mailto:tarandeeps1197@gmail.com)
 
 Feel free to check out my repositories and don't hesitate to connect if you find anything interesting!
