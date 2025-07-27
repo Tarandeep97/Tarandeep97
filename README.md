@@ -3,7 +3,6 @@
 ### About Me
 
 - 🎓 I'm an M.Tech(by Research) student at the Indian Institute of Technology, Hyderabad.
-- 🌍 Currently based in Tokyo, Japan.
 - 🔭 I’m currently focusing on projects related to machine learning and data sciences.
 
 ### Notable Works
